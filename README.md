@@ -2,4 +2,4 @@
 
 ## 📽 Demo Video
 
-[🎬 Watch the Combine Demo](https://github.com/PareshKarnawat/CombineDemo/blob/main/Screenshots/CombineDemo.mov)
+[🎬 Watch the Combine Demo](https://github.com/PareshKarnawat/CombineDemo/blob/main/Screenshots/CombineVideo.mov)
